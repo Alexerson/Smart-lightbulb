@@ -21,18 +21,19 @@ i.material-icons {
 }
 
 .color-buttons {
-    display: flex; 
+    margin-top: 2pc;
+    display: flex;
     justify-content: space-between;
 }
 
-.mic-button, 
+.mic-button,
 .power-button {
     text-align: center;
 }
 
 .mic-button {
     margin-top: 2pc;
-} 
+}
 
 .power-button {
     margin-bottom: 2pc;
